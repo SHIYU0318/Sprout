@@ -38,7 +38,7 @@ using namespace std;
 
 //==========================================================================================
 
-// Score:50 TLE
+// Score:50 substr TLE
 
 bool check(string s)
 {
